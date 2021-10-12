@@ -11,7 +11,9 @@
 
 ## Running the app
 
-Just run `rails s`! All executables you may need (`rails`, `rake`, `sqlite3`, `yarn`) should already be available in your shell.
+Just run `rails s` and then visit http://localhost:3000!
+
+All executables you may need (`rails`, `rake`, `sqlite3`, `yarn`) should already be available in your shell.
 
 ## Inspecting the DB
 
