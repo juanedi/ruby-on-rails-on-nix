@@ -7,5 +7,7 @@ pkgs.mkShell {
   buildInputs = [
     niv.niv
     pkgs.ruby
+    pkgs.nodejs
+    pkgs.yarn
   ];
 }
